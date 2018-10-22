@@ -1,7 +1,7 @@
 package JavaBasics;
 
 public class DataTypes {
-//Hi this is my first java code
+//Hi This is my first java code
 	/*hi this
 	is my first
 	java code*/
@@ -11,8 +11,8 @@ public class DataTypes {
 		// TODO Auto-generated method stub
 		//primitive datatypes int char boolean double
 //1i int;
-		int i = 10;
-		i=20;
+		int i = 5;
+		i=10;
 		int j = 30;
 		System.out.println(j);
 		System.out.println(i+j);
