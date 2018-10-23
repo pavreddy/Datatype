@@ -33,7 +33,7 @@ public class DataTypes {
 		boolean b1 = true;
 		boolean b2 = false;
 		//5 string is a class not data type
-		String s = "HELLO world";
+		String s = "HELLO World";
 		System.out.println(s);
 		String s1 = "1000";
 		
