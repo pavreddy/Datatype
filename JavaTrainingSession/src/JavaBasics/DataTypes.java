@@ -2,7 +2,7 @@ package JavaBasics;
 
 public class DataTypes {
 //Hi This is my first java code
-	/*hi this
+	/*hey hi this
 	is my first
 	java code*/
 	
@@ -13,7 +13,7 @@ public class DataTypes {
 //1i int;
 		int i = 5;
 		i=10;
-		int j = 30;
+		int j = 25;
 		System.out.println(j);
 		System.out.println(i+j);
 		 
@@ -33,7 +33,7 @@ public class DataTypes {
 		boolean b1 = true;
 		boolean b2 = false;
 		//5 string is a class not data type
-		String s = "hello world";
+		String s = "HELLO world";
 		System.out.println(s);
 		String s1 = "1000";
 		
